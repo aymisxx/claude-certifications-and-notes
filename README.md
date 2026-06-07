@@ -15,6 +15,8 @@ The focus is on:
 - documentation workflows.
 - robotics and autonomy project support.
 
+**(Based on Anthropic SkillJar Courses)**
+
 ## Core Philosophy
 
 The goal is not to collect random prompts.
