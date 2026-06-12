@@ -357,10 +357,10 @@ Core idea:
 
 ```text
 Observe
-→ Act
-→ Verify
-→ Update State
-→ Repeat
+→ Act.
+→ Verify.
+→ Update State.
+→ Repeat.
 ```
 
 Rules:
