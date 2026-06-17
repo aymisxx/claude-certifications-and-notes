@@ -23,7 +23,7 @@ Force Agentic Command Lab Translation
 ## Repository Status
 
 ```text
-Courses Completed: 13 / 13
+Courses Completed:  13 / 13
 Certificates:       13 PDFs
 Markdown Notes:     13 files
 Status:             Complete
@@ -344,13 +344,9 @@ That is the actual skill stack behind the certificates.
 
 ## Disclaimer
 
-This is a personal learning archive.
+This is a personal learning archive. The certificates and course references belong to their respective providers.
 
-The certificates and course references belong to their respective providers.
-
-The markdown notes are personal study notes, summaries, interpretations, and workflow translations created for learning and reference.
-
-This repository is not an official Anthropic repository and does not represent Anthropic documentation.
+The markdown notes are personal study notes, summaries, interpretations, and workflow translations created for learning and reference. This repository is not an official Anthropic repository and does not represent Anthropic documentation.
 
 ---
 
