@@ -71,7 +71,8 @@ claude-certifications-and-notes/
 │   └── 13_Building_with_the_Claude_API.md
 |
 ├── LICENSE
-└── README.md     # THIS FILE
+|
+└── README.md
 ```
 
 ---
