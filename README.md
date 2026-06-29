@@ -37,9 +37,7 @@ This repository is now a complete certification and notes archive for the covere
 
 ```text
 claude-certifications-and-notes/
-|
 ├── Anthropic SkillJar Certificates/
-|   |
 │   ├── 01_Claude_101.pdf
 │   ├── 02_Claude_Code_101.pdf
 │   ├── 03_Claude_Code_In_Action.pdf
@@ -53,9 +51,7 @@ claude-certifications-and-notes/
 │   ├── 11_AI_Fluency_Framework_Foundations.pdf
 │   ├── 12_AI_Fluency_for_Small_Businesses.pdf
 │   └── 13_Building_with_the_Claude_API.pdf
-|
 ├── Concept Revision Notes (MD)/
-|   |
 │   ├── 01_Claude_101.md
 │   ├── 02_Claude_Code_101.md
 │   ├── 03_Claude_Code_In_Action.md
@@ -69,9 +65,7 @@ claude-certifications-and-notes/
 │   ├── 11_AI_Fluency_Framework_Foundations.md
 │   ├── 12_AI_Fluency_for_Small_Businesses.md
 │   └── 13_Building_with_the_Claude_API.md
-|
 ├── LICENSE
-|
 └── README.md
 ```
 
@@ -279,7 +273,7 @@ This repository is useful because it creates a single organized reference for:
 
 It also preserves the learning sequence in a way that can be revisited later without reopening every course module.
 
-Tiny knowledge vault, steel hinges. 🗄️⚙️
+Tiny knowledge vault, steel hinges.
 
 ---
 
