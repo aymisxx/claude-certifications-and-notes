@@ -65,8 +65,8 @@ claude-certifications-and-notes/
 │   ├── 11_AI_Fluency_Framework_Foundations.md
 │   ├── 12_AI_Fluency_for_Small_Businesses.md
 │   └── 13_Building_with_the_Claude_API.md
-├── LICENSE
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
